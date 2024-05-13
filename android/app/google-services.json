@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819218609380",
+    "project_id": "sehchar-68ce93",
+    "storage_bucket": "sehchar-68ce93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819218609380:android:fe26b5bdd39d9800a6e8f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.sehchar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUm9mOQ56Kk-wFDRu4vCNsTpCop_crhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
